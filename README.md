@@ -1,9 +1,9 @@
 # 🧠 Alzheimer Data Analysis
 
-Projeto de Análise Exploratória de Dados utilizando Python com foco em dados clínicos relacionados ao Alzheimer.
+Projeto de análise exploratória de dados utilizando Python aplicado a um dataset clínico sobre a Doença de Alzheimer.
 
 ## 🎯 Objetivo
-Identificar padrões e possíveis fatores associados ao diagnóstico de Alzheimer a partir de dados clínicos.
+Explorar dados clínicos e cognitivos de pacientes com foco na identificação de padrões relevantes associados ao Alzheimer.
 
 ## 🛠 Tecnologias
 - Python
@@ -12,10 +12,14 @@ Identificar padrões e possíveis fatores associados ao diagnóstico de Alzheime
 - Matplotlib
 - Seaborn
 
-## 📊 Principais Análises
-- Distribuição etária dos pacientes
-- Diagnóstico por gênero
-- Correlação entre variáveis clínicas
+## 🔍 Etapas do Projeto
+- Importação e limpeza dos dados
+- Análise estatística descritiva
+- Visualização de dados
+- Identificação de padrões clínicos
 
 ## 📌 Conclusões
-A análise mostrou que a idade apresenta forte associação com o diagnóstico, além de correlações relevantes entre variáveis clínicas.
+A análise evidenciou a concentração de pacientes em faixas etárias avançadas, alta variabilidade nos níveis cognitivos (MMSE) e diferenças de escala entre as variáveis, indicando a necessidade de padronização para modelagem futura.
+
+## 📊 Dataset
+Dataset público disponível no Kaggle.
